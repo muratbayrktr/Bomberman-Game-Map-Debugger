@@ -13,3 +13,5 @@
 
 Map generator is straight-forward:  
 `Usage: python input_generator.py <map_width> <map_height> <obstacle_count> <bomber_count>`  
+
+![alt text](map-generator.png "Example generated map")
